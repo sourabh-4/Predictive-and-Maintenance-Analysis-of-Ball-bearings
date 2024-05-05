@@ -1,5 +1,5 @@
 
-# Rolling Element Bearing Fault Detection
+# Predictive and Maintenance Analysis of Ball bearings
 
 ## Overview
 This project focuses on the fault detection of rolling element bearings using machine learning models trained on vibration signal data. The notebook outlines the steps from data preprocessing, feature extraction, model training, to final evaluation.
