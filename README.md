@@ -35,8 +35,9 @@ To run the project:
 - Matplotlib
 
 ## Authors
-- [Your Name]
-- [Team Member's Name]
+- Yash Gupta
+- Sourabh Kumar Mandal
+- Shubham Agarwal
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
