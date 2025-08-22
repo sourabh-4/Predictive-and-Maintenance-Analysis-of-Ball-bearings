@@ -38,6 +38,7 @@ To run the project:
 - Yash Gupta
 - Sourabh Kumar Mandal
 - Shubham Agarwal
+- Jeeten Makwana
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
